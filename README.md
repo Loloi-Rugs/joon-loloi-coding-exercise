@@ -1,4 +1,4 @@
-Welcome to the Joon Loloi Coding Exercise
+### Welcome to the Joon Loloi Coding Exercise
 
 Your task is to improve a user profile card component in React. Here's what you need to do:
 
