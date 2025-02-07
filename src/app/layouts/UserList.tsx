@@ -7,6 +7,7 @@ import UserCard from "../components/UserCard";
 const UserList = () => {
   const [users, setUsers] = useState<User[]>([]);
 
+  // Convert to server action in src/app/actions/userAction.ts
   const getUsers = useCallback(async () => {
     try {
       const res = await fetch("https://jsonplaceholder.typicode.com/users");
