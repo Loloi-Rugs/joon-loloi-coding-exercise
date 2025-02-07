@@ -20,6 +20,6 @@ Create a show/hide feature for the address that displays:
 
 ### Task: Server Action
 Move the API fetch code into a server action:
-- Create: src/app/actions/userAction.ts
+- Use: `src/app/actions/userAction.ts`
 - Move the fetch logic there
 - Keep the error handling
